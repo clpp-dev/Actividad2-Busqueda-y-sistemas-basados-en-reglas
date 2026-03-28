@@ -7,7 +7,7 @@ Sistema Inteligente de Búsqueda de Rutas en Transporte Masivo utilizando Reglas
 ### Integrantes del Grupo
 - Santiago Tobar Useche
 - Cristian Leandro Pérez Peláez
-- **Fecha:** 14-03-2026
+- **Fecha:** 28-03-2026
 
 ### Curso
 - Inteligencia Artificial (JOAQUIN SANCHEZ 23022026_C1_202631)
