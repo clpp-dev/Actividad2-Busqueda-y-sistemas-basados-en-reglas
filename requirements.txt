@@ -1,0 +1,9 @@
+# Dependencias para Sistema Inteligente de Búsqueda de Rutas
+# Actividad 2 - Búsqueda y sistemas basados en reglas
+# Inteligencia Artificial
+
+# Motor de inferencia y sistema basado en reglas
+experta==1.9.4
+
+# Biblioteca para operaciones con grafos y búsqueda de rutas
+networkx==3.1
